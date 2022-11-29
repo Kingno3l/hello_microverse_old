@@ -1,1 +1,3 @@
-#this is a new git repo for hello microverse project.
+#Hello mircroverse project
+#Built with html and css
+#Learning
