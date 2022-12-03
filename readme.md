@@ -1,7 +1,22 @@
+📗Table of Contents
+
+📖 About the Project
+🛠 Built With
+Tech Stack
+Key Features
+💻 Getting Started
+Prerequisites
+Setup
+Usage
+👥 Authors
+🤝 Contributing
+🙏 Acknowledgements
+📝 License
+
 📖 [Hello Microverse]
 
-Describe your project in 1 or 2 sentences.
-[Hello Microverse] is a project for micronaut day 2.
+
+[Hello Microverse] is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
 
 🛠 Built With
 html and css
@@ -17,7 +32,22 @@ https://github.com/kingnoel/hello_microverse
 Access this basic files.
 
 Prerequisites
-A working PC
+A browser.
+
+Setup
+
+Clone this repository to your desired folder:
+
+git@github.com:kingnoel/hello_microverse.git
+
+Install
+This project can be installed using a commandline interface.
+
+Usage
+
+Execute the following command to run this project:
+
+Turn on IDE liveserver
 
 
 👥 Authors
